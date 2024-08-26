@@ -25,3 +25,9 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para sugerencias o 
 
 #Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+Define los archivos y carpetas que Git debe ignorar:
+*.pyc
+__pycache__/
+instance/
+.env
